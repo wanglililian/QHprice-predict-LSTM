@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lian@10.214.242.172:22 key" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="lian@10.214.242.172:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lian/MyPycharm/qihuo3" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lian@10.214.242.172:22 key (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lian@10.214.242.172:22 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lian/MyPycharm/qihuo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lian@10.214.242.172:22 key (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qihuo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/MyPycharm/qihuo2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qihuo3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/MyPycharm/qihuo3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

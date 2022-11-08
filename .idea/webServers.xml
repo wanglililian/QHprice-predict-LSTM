@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8057e934-310d-4bf6-9d05-cc9c5f2e8505" name="qihuo">
+        <fileTransfer rootFolder="/home/lian" accessType="SFTP" host="10.214.242.172" port="22" sshConfigId="4dd0f887-702d-4fc8-8330-35e2cb5f1603" sshConfig="lian@10.214.242.172:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="60cdd7dd-eab2-4683-a61e-f1884b23c8ef" name="qihuo3">
+        <fileTransfer rootFolder="/home/lian" accessType="SFTP" host="10.214.242.172" port="22" sshConfigId="4dd0f887-702d-4fc8-8330-35e2cb5f1603" sshConfig="lian@10.214.242.172:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

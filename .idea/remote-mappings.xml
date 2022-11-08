@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://lian@10.214.242.172:22/home/lian/anaconda3/envs/qihuo/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/lian/MyPycharm/qihuo2" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://lian@10.214.242.172:22/home/lian/anaconda3/envs/nlp1/bin/python3.8" />
+      </list>
+    </list>
+  </component>
+</project>
